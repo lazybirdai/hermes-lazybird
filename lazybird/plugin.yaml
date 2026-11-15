@@ -1,0 +1,7 @@
+name: lazybird
+version: 0.1.0
+description: "Lazybird text-to-speech for Hermes: set `tts.provider: lazybird` and LAZYBIRD_API_KEY."
+author: "Lazybird"
+requires_hermes: ">=0.21.6"
+requires_env:
+  - LAZYBIRD_API_KEY
